@@ -12,11 +12,15 @@ import { UserService } from '../../shared/services/user.service';
 })
 export class ListComponent implements OnInit{
 
+  newsList: Array<Object> = [];
   constructor() {
       console.log('List component');
   }
 
   ngOnInit(): void {
+    this.newsList.push({title: 'News 1'});
+    this.newsList.push({title: 'News 2'});
+    this.newsList.push({title: 'News 3'});
   }
 
 }

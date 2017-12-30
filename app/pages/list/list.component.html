@@ -1,4 +1,8 @@
 <ActionBar title="List View"></ActionBar>
-<StackLayout>
-    <Label text="Hello world"></Label>
-</StackLayout>
+<GridLayout>
+    <ListView [items]="newsList" class="small-spacing">
+        <ng-template let-item="item">
+            <Label [text]="item.title" class="medium-spacing"></Label>
+        </ng-template>
+    </ListView>
+</GridLayout>
