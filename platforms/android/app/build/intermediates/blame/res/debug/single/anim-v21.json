@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yogeshjadhav/.android/build-cache/f3750dddde5d2513b6bd2c803072d785c8a58767/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yogeshjadhav/.android/build-cache/f3750dddde5d2513b6bd2c803072d785c8a58767/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

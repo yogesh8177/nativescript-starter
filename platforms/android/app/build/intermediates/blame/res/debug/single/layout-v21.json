@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yogeshjadhav/.android/build-cache/91943b7eed3289cd0eeeb6a495ff2313c1581711/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yogeshjadhav/.android/build-cache/91943b7eed3289cd0eeeb6a495ff2313c1581711/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yogeshjadhav/.android/build-cache/91943b7eed3289cd0eeeb6a495ff2313c1581711/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yogeshjadhav/.android/build-cache/91943b7eed3289cd0eeeb6a495ff2313c1581711/output/res/layout-v21/notification_action.xml"
+    }
+]

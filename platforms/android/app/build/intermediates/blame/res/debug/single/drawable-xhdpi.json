@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/background.png",
+        "source": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/yogeshjadhav/Documents/Projects/YoNews/platforms/android/app/src/main/res/drawable-xhdpi/icon.png"
+    }
+]
