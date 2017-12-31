@@ -2,7 +2,10 @@
 <GridLayout>
     <ListView [items]="newsList" class="small-spacing">
         <ng-template let-item="item">
-            <Label [text]="item.title" class="medium-spacing"></Label>
+            <AbsoluteLayout>
+                <Image src="{{ item.urlToImage }}" width="50" height="50"></Image>
+                <Label [text]="item.title" class="medium-spacing" left="50" (tap) = "viewNews(item)"></Label>
+            </AbsoluteLayout>
         </ng-template>
     </ListView>
 </GridLayout>
