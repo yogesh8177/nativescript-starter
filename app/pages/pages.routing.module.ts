@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { PagesComponent } from './pages.component';
 import { LoginComponent } from "../pages/login/login.component";
 import { ListComponent } from "../pages/list/list.component";
+import { DetailsComponent } from "../pages/details/details.component";
 
 export const routes = [
   { 
@@ -14,12 +15,17 @@ export const routes = [
     path: 'list',
     component: ListComponent,
     data: { title: 'List' }
+  },
+  {
+    path: 'details',
+    component: DetailsComponent
   }
 ];
 
 export const RoutableComponents = [
   LoginComponent,
-  ListComponent
+  ListComponent,
+  DetailsComponent
 ]
 
 @NgModule({
