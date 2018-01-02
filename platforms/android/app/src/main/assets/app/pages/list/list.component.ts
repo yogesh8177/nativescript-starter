@@ -40,7 +40,6 @@ export class ListComponent implements OnInit{
     //   context: news,
     //   animated: true
     // };
-    console.dir(news);
     //this.topFrame.navigate(navigationEntry);
   }
 }
